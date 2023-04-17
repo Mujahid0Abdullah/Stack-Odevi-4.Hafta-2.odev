@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\stackOrnegi\stackOrnegi\bin\Debug\stackOrnegi.exe.config
+C:\Users\Acer\source\repos\stackOrnegi\stackOrnegi\bin\Debug\stackOrnegi.exe
+C:\Users\Acer\source\repos\stackOrnegi\stackOrnegi\bin\Debug\stackOrnegi.pdb
+C:\Users\Acer\source\repos\stackOrnegi\stackOrnegi\obj\Debug\stackOrnegi.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\stackOrnegi\stackOrnegi\obj\Debug\stackOrnegi.Form1.resources
+C:\Users\Acer\source\repos\stackOrnegi\stackOrnegi\obj\Debug\stackOrnegi.Properties.Resources.resources
+C:\Users\Acer\source\repos\stackOrnegi\stackOrnegi\obj\Debug\stackOrnegi.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\stackOrnegi\stackOrnegi\obj\Debug\stackOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\stackOrnegi\stackOrnegi\obj\Debug\stackOrnegi.exe
+C:\Users\Acer\source\repos\stackOrnegi\stackOrnegi\obj\Debug\stackOrnegi.pdb
